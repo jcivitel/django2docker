@@ -2,7 +2,7 @@
 
 
 ### how to use?
-You need to change the `<git_repo>` into your url of your git repository.
+You need to change the `<git_repo>` (<i>build_docker.ps1</i>) into your url of your git repository.
 > ! If you want to include your own enviroment variables add a '.env' file in the current folder.
 <br />
 <br />
