@@ -1,3 +1,4 @@
+#!/bin/bash
 rm -rf git_clone/*
 git clone <git_repo> git_clone
 cd git_clone
